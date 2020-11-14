@@ -7,3 +7,6 @@ Made in Digital Futures unit organized by Alex Russel at Manchester Metropolitan
 Built with Processing, requires their IDE https://processing.org/download/
 
 More info about the process can be found in "drawy-thingy-story.pdf"
+
+![Early output from Drawy Thingy](https://raw.githubusercontent.com/Donrafaeli/Drawy-Thingy/master/DTearly%20days.svg)
+<img src="https://raw.githubusercontent.com/Donrafaeli/Drawy-Thingy/master/DTearly%20days.svg">
